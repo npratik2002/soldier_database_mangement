@@ -1,2 +1,2 @@
-# soldier_database_mangement
+# soldier_database_management
 data base management system
